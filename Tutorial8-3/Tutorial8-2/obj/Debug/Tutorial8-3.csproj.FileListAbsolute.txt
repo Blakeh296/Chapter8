@@ -1,0 +1,9 @@
+G:\C#\Chapters\Chapter8\Chapter8Tutorials\Tutorial8-3\Tutorial8-2\bin\Debug\Tutorial8-2.exe.config
+G:\C#\Chapters\Chapter8\Chapter8Tutorials\Tutorial8-3\Tutorial8-2\bin\Debug\Tutorial8-2.exe
+G:\C#\Chapters\Chapter8\Chapter8Tutorials\Tutorial8-3\Tutorial8-2\bin\Debug\Tutorial8-2.pdb
+G:\C#\Chapters\Chapter8\Chapter8Tutorials\Tutorial8-3\Tutorial8-2\obj\Debug\Tutorial8_2.Form1.resources
+G:\C#\Chapters\Chapter8\Chapter8Tutorials\Tutorial8-3\Tutorial8-2\obj\Debug\Tutorial8_2.Properties.Resources.resources
+G:\C#\Chapters\Chapter8\Chapter8Tutorials\Tutorial8-3\Tutorial8-2\obj\Debug\Tutorial8-3.csproj.GenerateResource.Cache
+G:\C#\Chapters\Chapter8\Chapter8Tutorials\Tutorial8-3\Tutorial8-2\obj\Debug\Tutorial8-3.csproj.CoreCompileInputs.cache
+G:\C#\Chapters\Chapter8\Chapter8Tutorials\Tutorial8-3\Tutorial8-2\obj\Debug\Tutorial8-2.exe
+G:\C#\Chapters\Chapter8\Chapter8Tutorials\Tutorial8-3\Tutorial8-2\obj\Debug\Tutorial8-2.pdb
